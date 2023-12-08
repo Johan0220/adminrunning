@@ -1,4 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+module.exports = {
+    images: {
+      domains: ['semester3shoprunner.azurewebsites.net','flowbite.com','t4.ftcdn.net']
+    },
+    
+  }
